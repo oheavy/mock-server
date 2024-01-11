@@ -1,0 +1,28 @@
+{
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.bracketSpacing": true,
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 140,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.trailingComma": "es5",
+  "prettier.arrowParens": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "eslint.validate": [
+    "typescript"
+  ],
+  "eslint.lintTask.enable": true,
+  "eslint.workingDirectories": [],
+  "eslint.runtime": "node",
+  "javascript.preferences.importModuleSpecifier": "shortest",
+  "typescript.preferences.importModuleSpecifier": "shortest",
+  "files.watcherExclude": {
+    "**/dist/**": true
+  },
+}

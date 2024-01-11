@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "mock-server",
+      "path": ".",
+    }
+  ],
+  "settings": {
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.bracketSpacing": true,
+    "prettier.bracketSameLine": true,
+    "prettier.printWidth": 140,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "prettier.trailingComma": "es5",
+    "prettier.arrowParens": "always",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "npm-intellisense.importLinebreak": "",
+  }
+}
